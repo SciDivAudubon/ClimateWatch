@@ -1,2 +1,4 @@
 
 ._index.html
+*.css
+*.js
